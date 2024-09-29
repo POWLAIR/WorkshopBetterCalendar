@@ -6,6 +6,12 @@ L'**application Better Calendar Workshop** est une application Android simple qu
 
 Cette application utilise le SDK Android ainsi que Kotlin pour son implémentation, garantissant la compatibilité à partir de l'API niveau 21 (Android 5.0 Lollipop) jusqu'aux versions les plus récentes du SDK Android.
 
+## Dépôt de l'application Web
+
+Le dépôt GitHub pour l'application Web est disponible à l'adresse suivante :
+
+[Better Calendar Web Repo](https://github.com/BlaCkMatiK/better_calendar)
+
 ## Fonctionnalités
 
 - **Intégration du WebView** : La fonctionnalité principale est la capacité à charger et afficher du contenu web directement dans l'application en utilisant le `WebView` d'Android.
