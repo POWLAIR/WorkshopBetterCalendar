@@ -18,7 +18,7 @@ Cette application utilise le SDK Android ainsi que Kotlin pour son implémentati
 
 Le dépôt GitHub pour l'application Web est disponible à l'adresse suivante :
 
-[Better Calendar Web Repo](https://github.com/BlaCkMatiK/better_calendar)
+[Application Web Better Calendar Repo](https://github.com/BlaCkMatiK/better_calendar)
 
 ## Fonctionnalités
 
