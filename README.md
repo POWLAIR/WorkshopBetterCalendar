@@ -6,6 +6,14 @@ L'**application Better Calendar Workshop** est une application Android simple qu
 
 Cette application utilise le SDK Android ainsi que Kotlin pour son implémentation, garantissant la compatibilité à partir de l'API niveau 21 (Android 5.0 Lollipop) jusqu'aux versions les plus récentes du SDK Android.
 
+
+## Accès au site
+
+- **URL** : [Workshop Better Calendar](https://workshop.romain-igounet.fr/)
+- **Email** : `admin@epsi.fr`
+- **Mot de passe** : `azerty`
+
+
 ## Dépôt de l'application Web
 
 Le dépôt GitHub pour l'application Web est disponible à l'adresse suivante :
